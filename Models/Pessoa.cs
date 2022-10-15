@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ExemploExplorando.Models
 {
-    public class Pessoa
+    public class Pesso
     {
         private string _nome;
         private int _idade;
