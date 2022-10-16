@@ -5,8 +5,17 @@ using System.Threading.Tasks;
 
 namespace ExemploExplorando.Models
 {
-    public class Pesso
+    public class Pessoa
     {
+        public Pessoa()
+        {
+
+        }
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
         private string _nome;
         private int _idade;
 

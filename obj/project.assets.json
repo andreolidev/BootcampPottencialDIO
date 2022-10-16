@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\PottencialDev\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectUniqueName": "C:\\workspacegithub\\BootcampPottencialDIO\\ExemploExplorando\\ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\PottencialDev\\ExemploExplorando\\ExemploExplorando.csproj",
+      "projectPath": "C:\\workspacegithub\\BootcampPottencialDIO\\ExemploExplorando\\ExemploExplorando.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\PottencialDev\\ExemploExplorando\\obj\\",
+      "outputPath": "C:\\workspacegithub\\BootcampPottencialDIO\\ExemploExplorando\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
